@@ -36,3 +36,5 @@ pokemonCopia.ataques.push(
 
 console.log(pokemon);
 console.log(pokemonCopia);
+
+//ok
